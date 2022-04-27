@@ -31,7 +31,7 @@ Quote from Microsoft Doc (Updated Jan.13, 2022)
 Intune requires Android 6.x or higher for device enrollment scenarios. For Intune app protection policies, Intune requires Android 9.0 or higher. This requirement does NOT apply to Polycom Android-based Teams devices running 4.4. These devices will continue to be supported.
 {% endhint %}
 
-### 📳 Example: Android OS versions
+### 1️⃣Example #1: Android OS versions
 
 So how can we get a list of devices' operating system versions that users are using to access organization data?  Let's use **SigninLogs** to find out what iOS versions we have
 
@@ -50,9 +50,9 @@ SigninLogs
 | distinct UserPrincipalName, OSVersion, AppDisplayName, ClientAppUsed, Browser
 ```
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
-### 📌 Example #2: Sign-in location details
+### 2️⃣Example #2: Sign-in location details
 
 This query tells you users' sign-in location details, IP address, Operating System
 
@@ -69,4 +69,6 @@ SigninLogs
 ```
 
 ![Sigin details with Operating System, IP address, Location Details](<../../.gitbook/assets/image (12).png>)
+
+## Using IntuneDevices
 
