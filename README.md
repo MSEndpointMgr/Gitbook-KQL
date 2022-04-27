@@ -14,12 +14,12 @@ Where and how did I start to learn this? Here is our list of where you can begin
 
 ### Blogs
 
+* Blog: [MSEndpointMgr.com](https://msendpointmgr.com/tag/log-analytics/)
 * Blog: [Become a KQL Ninja by Huy Kha](https://identityandsecuritydotcom.wordpress.com/2020/08/07/become-a-kql-ninja/)
 * Blog: [Kusto King by Gianni Castaldi](https://www.kustoking.com/kusto-knight/)
 * Blog: [Azure Cloud & AI Domain Blog](https://azurecloudai.blog)
 * Blog: [Must Learn KQL by Rod Trent](https://aka.ms/MustLearnKQL)
 * Blog: [CloudSMA by Billy York](https://www.cloudsma.com)&#x20;
-* Blog: [MSEndpointMgr.com](https://msendpointmgr.com/tag/log-analytics/)
 
 ### Github
 
