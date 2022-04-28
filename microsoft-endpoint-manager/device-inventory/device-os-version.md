@@ -42,14 +42,13 @@ SigninLogs
 | extend OperatingSystem = tostring(DeviceDetail.operatingSystem)
 | where OperatingSystem contains "Android"
     and UserPrincipalName has '@'
-    and UserAgent has "Android "
-    and AppDisplayName == "Outlook Mobile"
+     and AppDisplayName == "Outlook Mobile"
 | extend UserAgent = split(UserAgent, "; ")
 | extend OSVersion = tostring(UserAgent[1])
 | project TimeGenerated, UserPrincipalName, OSVersion, OperatingSystem
 ```
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 ### 📌 Example #2: Sign-in location details
 
