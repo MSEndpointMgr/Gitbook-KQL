@@ -6,3 +6,5 @@ IntuneDevices
 | where UserName has "sandy"
 | project-keep TimeGenerated, U*
 ```
+
+![](<../../../.gitbook/assets/image (24).png>)
