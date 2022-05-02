@@ -40,6 +40,12 @@ search in (IntuneDevices, UCClient) "THINK460"
 
 ### 🔍Search the value from the specified column
 
+```
+// Some code
+IntuneDevices
+| search DeviceName: "THINK"
+```
+
 ![Search the value from the specified column](<../../.gitbook/assets/image (27).png>)
 
 ### 🔍Search begins with and starts with
