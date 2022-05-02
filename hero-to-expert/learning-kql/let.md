@@ -1,12 +1,13 @@
 # let
 
 ```
-// Some code
-datatable (Date: datetime, Event: string) [
-    datetime(1910-06-11), "Born",
-    datetime(1930-01-01), "Enters Ecole Navale",
-    datetime(1953-01-01), "Published first book",
-    datetime(1997-06-25), "Died"
-]
+let n = 10;  // number
+let computername = "cloudway";  // string
+let Day = ago(30d); // datetime 
+UCClient
+| where TimeGenerated > Day
+| where DeviceName has computername
+| take n
 ```
 
+![](<../../.gitbook/assets/image (20).png>)
