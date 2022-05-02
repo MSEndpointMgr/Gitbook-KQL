@@ -14,14 +14,10 @@
     * [bag\_unpack](hero-to-expert/learning-kql/evaluate/bag\_unpack.md)
     * [pivot](hero-to-expert/learning-kql/evaluate/pivot.md)
   * [mvexpand](hero-to-expert/learning-kql/mvexpand.md)
+  * [makeset and makelist](hero-to-expert/learning-kql/makeset-and-makelist.md)
   * [set\_difference](hero-to-expert/learning-kql/set\_difference.md)
   * [case](hero-to-expert/learning-kql/case.md)
-  * [extract](hero-to-expert/learning-kql/extract/README.md)
-    * [extract\_all](hero-to-expert/learning-kql/extract/extract\_all.md)
   * [parse](hero-to-expert/learning-kql/parse.md)
-  * [evaluate pivot](hero-to-expert/learning-kql/evaluate-pivot/README.md)
-    * [makeset and makelist](hero-to-expert/learning-kql/evaluate-pivot/makeset-and-makelist.md)
-  * [Create table](hero-to-expert/learning-kql/create-table.md)
   * [render](hero-to-expert/learning-kql/render.md)
 
 ## 💻 Microsoft Endpoint Manager

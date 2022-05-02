@@ -8,4 +8,4 @@ IntuneDevices
 | extend p = pack(OS, JoinType)
 ```
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
