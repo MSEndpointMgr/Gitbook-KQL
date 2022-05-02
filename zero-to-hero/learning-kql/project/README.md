@@ -7,4 +7,4 @@ IntuneDevices
 | project TimeGenerated, UserName, Manufacturer, DeviceName, Model
 ```
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)

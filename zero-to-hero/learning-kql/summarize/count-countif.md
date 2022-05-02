@@ -34,4 +34,4 @@ IntuneDevices
 | summarize Count = countif(OS != 'Windows')
 ```
 
-![](<../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../.gitbook/assets/image (26) (1) (1).png>)

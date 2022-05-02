@@ -19,7 +19,7 @@
     * [project-keep](zero-to-hero/learning-kql/project/project-keep.md)
   * [sort by](zero-to-hero/learning-kql/sort-by.md)
   * [extend](zero-to-hero/learning-kql/extend.md)
-  * [stract](zero-to-hero/learning-kql/stract.md)
+  * [strcat](zero-to-hero/learning-kql/strcat.md)
 
 ## 💻 Microsoft Endpoint Manager
 
