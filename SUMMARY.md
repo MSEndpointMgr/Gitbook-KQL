@@ -1,29 +1,24 @@
 # Table of contents
 
-## 💠 MMSMOA2022 KQL Examples
-
 * [Overview](README.md)
-* [Zero to Hero](mmsmoa2022-kql-examples/readme/README.md)
-  * [search](mmsmoa2022-kql-examples/readme/search.md)
-  * [take](mmsmoa2022-kql-examples/readme/take.md)
-  * [where](mmsmoa2022-kql-examples/readme/where.md)
-  * [summarize](mmsmoa2022-kql-examples/readme/summarize/README.md)
-    * [arg\_max](mmsmoa2022-kql-examples/readme/summarize/arg\_max.md)
-    * [count, countif](mmsmoa2022-kql-examples/readme/summarize/count-countif.md)
-    * [dcount, dcountif](mmsmoa2022-kql-examples/readme/summarize/dcount-dcountif.md)
-    * [take\_any](mmsmoa2022-kql-examples/readme/summarize/take\_any.md)
-  * [distinct](mmsmoa2022-kql-examples/readme/distinct.md)
-  * [project](mmsmoa2022-kql-examples/readme/project/README.md)
-    * [project-reorder](mmsmoa2022-kql-examples/readme/project/project-reorder.md)
-    * [project-away](mmsmoa2022-kql-examples/readme/project/project-away.md)
-    * [project-rename](mmsmoa2022-kql-examples/readme/project/project-rename.md)
-    * [project-keep](mmsmoa2022-kql-examples/readme/project/project-keep.md)
-  * [sort by](mmsmoa2022-kql-examples/readme/sort-by.md)
-  * [extend](mmsmoa2022-kql-examples/readme/extend.md)
-  * [strcat](mmsmoa2022-kql-examples/readme/strcat.md)
-
-***
-
+* [Zero to Hero](readme-1/README.md)
+  * [search](readme-1/search.md)
+  * [take](readme-1/take.md)
+  * [where](readme-1/where.md)
+  * [summarize](readme-1/summarize/README.md)
+    * [arg\_max](readme-1/summarize/arg\_max.md)
+    * [count, countif](readme-1/summarize/count-countif.md)
+    * [dcount, dcountif](readme-1/summarize/dcount-dcountif.md)
+    * [take\_any](readme-1/summarize/take\_any.md)
+  * [distinct](readme-1/distinct.md)
+  * [project](readme-1/project/README.md)
+    * [project-reorder](readme-1/project/project-reorder.md)
+    * [project-away](readme-1/project/project-away.md)
+    * [project-rename](readme-1/project/project-rename.md)
+    * [project-keep](readme-1/project/project-keep.md)
+  * [sort by](readme-1/sort-by.md)
+  * [extend](readme-1/extend.md)
+  * [strcat](readme-1/strcat.md)
 * [Hero to Expert](hero-to-expert/README.md)
   * [let](hero-to-expert/let.md)
   * [join](hero-to-expert/join.md)
@@ -39,8 +34,8 @@
   * [set\_difference](hero-to-expert/set\_difference.md)
   * [case](hero-to-expert/case.md)
 
-## 💻 Microsoft Endpoint Manager
+## 💻 Examples
 
-* [Device Inventory](microsoft-endpoint-manager/device-inventory/README.md)
-  * [Device OS version](microsoft-endpoint-manager/device-inventory/device-os-version.md)
-  * [Same AAD Device ID and Intune Device ID](microsoft-endpoint-manager/device-inventory/same-aad-device-id-and-intune-device-id.md)
+* [Device Inventory](examples/device-inventory/README.md)
+  * [Device OS version](examples/device-inventory/device-os-version.md)
+  * [Same AAD Device ID and Intune Device ID](examples/device-inventory/same-aad-device-id-and-intune-device-id.md)

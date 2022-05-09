@@ -2,26 +2,24 @@
 
 ## Using SigninLogs
 
-You might ask a question here, why use **SigninLogs** table, not **IntuneDevices** table? Because IntuneDevices table only gives details of devices that are managed by Intune.&#x20;
+You might ask a question here, why use **SigninLogs** table, not **IntuneDevices** table? Because IntuneDevices table only gives details of devices that are managed by Intune.
 
-Let's say you want to use Intune managed mobile devices, both MDM and MAM, we know Intune doesn't support all operating systems, there are some requirements, therefore your might need a list of devices' operating system version and users, so that maybe some of the lucky users will get a new phone:smile:.  &#x20;
+Let's say you want to use Intune managed mobile devices, both MDM and MAM, we know Intune doesn't support all operating systems, there are some requirements, therefore your might need a list of devices' operating system version and users, so that maybe some of the lucky users will get a new phone:smile:.
 
 See Intune supported operating system details on Microsoft Doc [https://docs.microsoft.com/en-us/mem/intune/fundamentals/supported-devices-browsers](https://docs.microsoft.com/en-us/mem/intune/fundamentals/supported-devices-browsers)
 
 Quote from Microsoft Doc (Updated Jan.13, 2022)
 
 {% hint style="info" %}
-### Intune supported operating systems <a href="#intune-supported-operating-systems" id="intune-supported-operating-systems"></a>
+#### Intune supported operating systems <a href="#intune-supported-operating-systems" id="intune-supported-operating-systems"></a>
 
-
-
-#### Apple <a href="#apple" id="apple"></a>
+**Apple**
 
 * Apple iOS 13.0 and later
 * Apple iPadOS 13.0 and later
 * macOS 10.15 and later
 
-#### &#x20;Google <a href="#google" id="google"></a>
+**Google**
 
 * Android 6.0 and later (including Samsung KNOX Standard 2.4 and higher: [requirements](https://www.samsungknox.com/en/knox-platform/supported-devices/2.4+))
 * Android enterprise: [requirements](https://support.google.com/work/android/topic/9428066)
@@ -33,7 +31,7 @@ Intune requires Android 6.x or higher for device enrollment scenarios. For Intun
 
 ### 📳 Example: Android OS versions
 
-So how can we get a list of devices' operating system versions that users are using to access organization data?  Let's use **SigninLogs** to find out what iOS versions we have
+So how can we get a list of devices' operating system versions that users are using to access organization data? Let's use **SigninLogs** to find out what iOS versions we have
 
 ```
 SigninLogs
@@ -67,4 +65,3 @@ SigninLogs
 ```
 
 ![Sigin details with Operating System, IP address, Location Details](<../../.gitbook/assets/image (12).png>)
-
