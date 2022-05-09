@@ -48,7 +48,7 @@ SigninLogs
 | project TimeGenerated, UserPrincipalName, OSVersion, OperatingSystem
 ```
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 ### 📌 Example #2: Sign-in location details
 

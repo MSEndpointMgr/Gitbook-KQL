@@ -9,7 +9,7 @@ IntuneDevices
 | summarize take_any(*)
 ```
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (1).png>)
 
 ### Return only one random row with specific columns
 
@@ -27,4 +27,4 @@ IntuneDevices
 | summarize take_any(DeviceId, OS, CompliantState) by DeviceName
 ```
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (25) (1) (1).png>)

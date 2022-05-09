@@ -12,7 +12,7 @@ IntuneDevices
 | summarize count() by OS
 ```
 
-![Example of a wrong query](<../../../.gitbook/assets/image (4) (1).png>)
+![Example of a wrong query](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="success" %}
 Let fixed the above query. I will use **arg\_max()** aggregation to maximized TimeGenerated (means latest data in this case), return OS for each device's SerialNumber. I use SerialNumber instead DeviceName because sometime we might reinstall the same device again using a different device name, I don't want to have duplicated data result
@@ -41,4 +41,4 @@ IntuneDevices
 
 ```
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1).png>)

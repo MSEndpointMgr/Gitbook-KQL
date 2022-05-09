@@ -7,4 +7,4 @@ IntuneDevices
 | project-keep TimeGenerated, U*
 ```
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24) (1).png>)

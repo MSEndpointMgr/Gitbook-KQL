@@ -1,4 +1,6 @@
-# Overview
+# Zero to Hero
+
+## Learning KQL
 
 In this chapter, we will show some examples that we use frequently to help you start using KQL
 
@@ -52,4 +54,4 @@ Here is my collection of where I begin to learn to create my first workbook
 
 ## License
 
-This software is created by [MSEndpointMgr](https://msendpointmgr.com) and it is distributed under the [MIT License](LICENSE/).
+This software is created by [MSEndpointMgr](https://msendpointmgr.com) and it is distributed under the [MIT License](../../LICENSE/).

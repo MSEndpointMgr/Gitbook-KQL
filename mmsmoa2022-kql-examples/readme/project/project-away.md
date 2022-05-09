@@ -9,4 +9,4 @@ IntuneDevices
 | project-away TimeGenerated, U*, D*, SerialNumber
 ```
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25) (1).png>)
