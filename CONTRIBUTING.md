@@ -10,6 +10,6 @@ Open a new [issue](https://github.com/MSEndpointMgr/Gitbook/issues/new).
 
 ## Code
 
-1. Fork the [repository](https://github.com/kataras/gitbook-to-wiki).
+1. Fork the [repository](https://github.com/MSEndpointMgr/Gitbook).
 2. Make your changes.
 3. Compare & Push the PR from [here](https://github.com/MSEndpointMgr/Gitbook/compare).
