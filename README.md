@@ -51,3 +51,6 @@ Here is my collection of where I begin to learn to create my first workbook
 * Blog: [Using Azure Monitor Workbooks to document your Azure resources by Mathieu Buisson](https://mathieubuisson.github.io/azure-workbooks-inventory-resources/)
 * Microsoft Doc: [Azure Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview)
 * Blog: [MSEndpointMgr.com](https://msendpointmgr.com/tag/log-analytics/)
+
+# License
+This software is created by [MSEndpointMgr](https://msendpointmgr.com/) and it is distributed under the [MIT License](LICENSE).
