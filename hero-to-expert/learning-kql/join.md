@@ -1,4 +1,4 @@
-# join
+# join data
 
 ```
 let IntuneData = IntuneDevices
