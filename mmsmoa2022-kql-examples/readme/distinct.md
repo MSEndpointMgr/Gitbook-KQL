@@ -1,6 +1,6 @@
 # distinct
 
-I often use distinct to look for the value that I want to use later as filters or parameters in workbooks. For example, I see IntuneDevices table has a column called ManageBy, but I have no ideas what data we have in this column.&#x20;
+I often use distinct to look for the value that I want to use later as filters or parameters in workbooks. For example, I see IntuneDevices table has a column called ManageBy, but I have no ideas what data we have in this column.
 
 ```
 IntuneDevices
@@ -20,4 +20,3 @@ IntuneDevices
     and ManagedBy == 'Co-managed' //filter device are Co-managed
 | summarize arg_max(TimeGenerated, *) by SerialNumber
 ```
-

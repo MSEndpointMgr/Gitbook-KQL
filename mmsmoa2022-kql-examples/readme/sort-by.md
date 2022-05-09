@@ -4,7 +4,7 @@ Sort the rows of the input table into order by one or more columns. Default is *
 
 ### 🦄 Example: Intune audit log for the past 7 days
 
-&#x20;Sort by TimeGenerated column in ascending order.&#x20;
+Sort by TimeGenerated column in ascending order.
 
 ```
 IntuneAuditLogs 

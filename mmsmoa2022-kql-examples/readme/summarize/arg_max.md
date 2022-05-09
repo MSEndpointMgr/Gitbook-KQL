@@ -3,7 +3,7 @@
 Let's try useing the **IntuneDevices** table to count how many devices we have per Operating Systems
 
 {% hint style="danger" %}
-This is an example of a wrong query. The bellow query is getting data that are generated for the past 7 days, returns a count of the records per summarization group by **OS** column. The problem with this query is IntuneDevices table gets all the devices' data once per day, which means there are duplicate rows.&#x20;
+This is an example of a wrong query. The bellow query is getting data that are generated for the past 7 days, returns a count of the records per summarization group by **OS** column. The problem with this query is IntuneDevices table gets all the devices' data once per day, which means there are duplicate rows.
 {% endhint %}
 
 ```
@@ -38,7 +38,6 @@ IntuneDevices
     and todatetime(LastContact) > ago(60d) //We need to convert LastContact to date time format
 | summarize arg_max(TimeGenerated, OS) by SerialNumber
 | summarize count() by OS
-
 ```
 
 ![](<../../../.gitbook/assets/image (23) (1) (1).png>)

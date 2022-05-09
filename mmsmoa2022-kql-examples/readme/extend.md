@@ -1,6 +1,6 @@
 # extend
 
-**extend** allow us to build calculated columns of our query results and append them to the result set. You can also extend custom text as well&#x20;
+**extend** allow us to build calculated columns of our query results and append them to the result set. You can also extend custom text as well
 
 ### 📲 Example: calculate Intune device free storage percentage, and convert storage from MB to GB
 

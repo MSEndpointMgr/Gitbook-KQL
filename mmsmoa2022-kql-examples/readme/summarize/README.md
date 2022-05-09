@@ -1,6 +1,6 @@
 # summarize
 
-**summarize** operator is complicated in my opinion.  :smile: And often I still forgot how to use it and even got it all wrong. Because summarize is used with many aggregation funcions. Here is the full list
+**summarize** operator is complicated in my opinion. :smile: And often I still forgot how to use it and even got it all wrong. Because summarize is used with many aggregation funcions. Here is the full list
 
 ### 📃[List of aggregation functions](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/summarizeoperator#list-of-aggregation-functions) <a href="#list-of-aggregation-functions" id="list-of-aggregation-functions"></a>
 
@@ -41,4 +41,3 @@
 | [take\_anyif()](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/take-anyif-aggfunction)                       | Returns a random non-empty value for the group (with predicate)              |
 | [variance()](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/variance-aggfunction)                            | Returns the variance across the group                                        |
 | [varianceif()](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/varianceif-aggfunction)                        | Returns the variance across the group (with predicate)                       |
-

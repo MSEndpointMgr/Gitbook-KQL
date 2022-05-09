@@ -50,8 +50,6 @@ IntuneDevices
 
 ### Get a full list of devices that has multiple AAD Device ID or Intune Device ID
 
-
-
 ```
 let deviceData = IntuneDevices
 | where TimeGenerated > ago(180d) //Gets all data generated in 180 days
@@ -66,4 +64,3 @@ deviceData
 | where SerialNumber in (issueDevices)
 | sort by SerialNumber, EndTime
 ```
-

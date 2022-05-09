@@ -1,7 +1,5 @@
 # project-away
 
-
-
 ```
 IntuneDevices
 | summarize arg_max(TimeGenerated, *) by SerialNumber

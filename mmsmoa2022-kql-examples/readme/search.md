@@ -1,18 +1,18 @@
 # search
 
-Use <mark style="color:red;">**search**</mark> when you know what are looking for, but don't know from where.&#x20;
+Use <mark style="color:red;">**search**</mark> when you know what are looking for, but don't know from where.
 
 For example, I know I have a device name that starts with **THINK**, I can't remember what exact name it is and I just want to see what data do I get
 
 {% hint style="info" %}
-A faster way to filter the data that you are looking for is to **** use "**where".** &#x20;
+A faster way to filter the data that you are looking for is to \*\*\*\* use "**where".**
 {% endhint %}
 
 {% content-ref url="where.md" %}
 [where.md](where.md)
 {% endcontent-ref %}
 
-### &#x20;🔍Search everything and not case sensitive
+### 🔍Search everything and not case sensitive
 
 ```
 search "*think*"

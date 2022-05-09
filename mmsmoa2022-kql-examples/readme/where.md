@@ -55,4 +55,3 @@ IntuneDevices
 IntuneDevices
 | search DeviceName matches regex "[A-Z]-"
 ```
-
