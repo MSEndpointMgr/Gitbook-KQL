@@ -1,5 +1,7 @@
 # Overview
 
+First, thank you **GitBook** as a supporter. We are using GitBook to write these KQL examples here as a team. You can also provide feedback or submit issues on our Github [https://github.com/MSEndpointMgr/Gitbook-KQL](https://github.com/MSEndpointMgr/Gitbook-KQL)
+
 In this chapter, we will show some examples that we use frequently to help you start using KQL
 
 If you don't have any data that you can use, you can log in to **KQL Playground** [https://aka.ms/LAdemo](https://aka.ms/LAdemo) and use that in your practics.
